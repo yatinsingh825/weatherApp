@@ -18,12 +18,20 @@ This is an Android weather application built during the course of Android Develo
 ## Screenshots
 Here are some screenshots of the app in action:
 
-<img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0001.jpg" width="300">
-<img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0002.jpg" width="300">
-<img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0003.jpg" width="300">
-<img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0004.jpg" width="300">
-<img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0005.jpg" width="300">
-<img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0006.jpg" width="300">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0001.jpg" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0002.jpg" width="300">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0003.jpg" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0004.jpg" width="300">
+</div>
+
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0005.jpg" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0006.jpg" width="300">
+</div>
 
 ## Installation
 To get this project up and running on your local machine, follow these steps:
