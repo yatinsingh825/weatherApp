@@ -17,20 +17,14 @@ This is an Android weather application built during the course of Android Develo
 
 ## Screenshots
 Here are some screenshots of the app in action:
-
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0001.jpg" width="300" style="margin-right: 10px;">
-    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0002.jpg" width="300">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/Screenshot%202024-11-15%20021708.png" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/Screenshot%202024-11-15%20021749.png" width="300">
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0003.jpg" width="300" style="margin-right: 10px;">
-    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0004.jpg" width="300">
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0005.jpg" width="300" style="margin-right: 10px;">
-    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/IMG-20241113-WA0006.jpg" width="300">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/Screenshot%202024-11-15%20021905.png" width="300" style="margin-right: 10px;">
+    <img src="https://github.com/yatinsingh825/weatherApp/blob/main/Screenshot%202024-11-15%20022302.png" width="300">
 </div>
 
 ## Installation
